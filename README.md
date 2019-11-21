@@ -7,14 +7,17 @@ O projeto se resume em um aplicativo que recebe como informação valores de ent
  <br>
  
  # Diagrama de Classes
+ 
 <Img src="https://github.com/PEE-2019-ELO-COM/AndreVital-Lucrum/blob/master/Lucrum.png">
  
 <br>
  
 # GUI Inicial
+
 <Img src="https://github.com/PEE-2019-ELO-COM/AndreVital-Lucrum/blob/master/GUI_Inicial-1.png">
  
 <br> 
+
 # Para criar o app
  
   Após clonar o repositório:
