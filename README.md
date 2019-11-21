@@ -14,23 +14,28 @@ O projeto se resume em um aplicativo que recebe como informação valores de ent
 # GUI Inicial
 <Img src="https://github.com/PEE-2019-ELO-COM/AndreVital-Lucrum/blob/master/GUI_Inicial-1.png">
  
-<br>
- 
+<br> 
 # Para criar o app
  
   Após clonar o repositório:
+  <br>
   npm init
  
   Para instalar sua database nas dependências do seu projeto:
+   <br>
   npm install mysql
   
   Para instalar express nas dependências do seu projeto:
+   <br>
   npm install express
   
   Para criar uma database:
+   <br>
   Entre no arquivo database.js e coloque seu usuário e senha do seu mysql
   e depois execute no terminal o mesmo arquivo com
+   <br>
   node database.js
   
   E logo em seguida para criar as tabelas:
+   <br>
   node Tables.js
