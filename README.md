@@ -42,3 +42,17 @@ O projeto se resume em um aplicativo que recebe como informação valores de ent
   E logo em seguida para criar as tabelas:
    <br>
   node Tables.js
+<br>
+ Agora para popular o banco de dados, fazendo se do uso da api, será necessário a instalação do Postman. O tutorial para instalação do mesmo se encontra no link a seguir
+ <br>
+ https://linux4one.com/how-to-install-postman-in-linux/
+ <br>
+ Após a instalação, basta importar os requests, pelo postman, com o link a seguir
+ <br>
+ https://www.getpostman.com/collections/3b8a132165352c07f39f
+ <br>
+ Em seguida, incializa-se a api no terminal com o comando a seguir
+<br>
+node models.js
+<br>
+Agora só falta usar o postman para efetuar todos os requests necessários (pode ser alterado manualmente os valores dos campos ao clicar em "body" no postman)
